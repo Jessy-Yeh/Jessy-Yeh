@@ -1,6 +1,7 @@
 Hello! 你好 👋
+I'm Jessy from Taiwan and currently based in Birmingham, UK.
 
-- 🔭 I’m currently a bootcamper in the School of Code
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React...
-- :octocat: I'm from Taiwan and currently based in Birmingham, UK
+🔭 I’m a bootcamper in the School of Code
+💻 The languages I use: HTML, CSS, JavaScript, React
+
 
